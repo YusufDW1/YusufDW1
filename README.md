@@ -41,7 +41,7 @@
 
 <div align="center">
   
-[![Yusuf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YusufDW1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)](https://github.com/YusufDW1)
+[![Yusuf's GitHub Stats](https://github-readme-stats.shion.dev/api?username=YusufDW1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)](https://github.com/YusufDW1)
 
 [![Yusuf's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YusufDW1&theme=tokyonight&hide_border=true)](https://github.com/YusufDW1)
 
@@ -51,6 +51,6 @@
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufDW1&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/YusufDW1)
+[![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=YusufDW1&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/YusufDW1)
 
 </div>
