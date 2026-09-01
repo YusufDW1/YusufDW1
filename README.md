@@ -12,8 +12,6 @@
 *  Saat ini sedang menempuh studi **Teknik Informatika**.
 *  Berfokus pada pengembangan antarmuka (Frontend) untuk platform **Web** dan **Mobile**, menciptakan pengalaman pengguna yang responsif dan interaktif.
 *  Memiliki ketertarikan eksplorasi di bidang **Kecerdasan Buatan (AI)**.
-*  Saat ini sedang fokus mengembangkan:
-  * **Seharta** - Aplikasi manajemen finansial kolaboratif dengan integrasi fitur *scan* struk menggunakan OCR.
 *  Mari berdiskusi! Hubungi saya melalui: **yusufdwi456@gmail.com**
 
 ---
