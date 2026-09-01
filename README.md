@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Saya Yusuf Dwi Saputra</h1>
+<h1 align="center">Hi, Saya Yusuf Dwi Saputra</h1>
 <h3 align="center">Mahasiswa Teknik Informatika | Frontend Developer (Web & Mobile) | AI Enthusiast</h3>
 
 <p align="center">
@@ -7,18 +7,18 @@
 
 ---
 
-### 👨‍💻 Tentang Saya
+### Tentang Saya
 
-* 🎓 Saat ini sedang menempuh studi **Teknik Informatika**.
-* 💻 Berfokus pada pengembangan antarmuka (Frontend) untuk platform **Web** dan **Mobile**, menciptakan pengalaman pengguna yang responsif dan interaktif.
-* 🤖 Memiliki ketertarikan eksplorasi di bidang **Kecerdasan Buatan (AI)**.
-* 🚀 Saat ini sedang fokus mengembangkan:
-  * **Seharta** - Aplikasi manajemen finansial kolaboratif dengan integrasi fitur *scan* struk menggunakan OCR.
-* 📫 Mari berdiskusi! Hubungi saya melalui: **yusufdwi456@gmail.com**
+*  Saat ini sedang menempuh studi **Teknik Informatika**.
+*  Berfokus pada pengembangan antarmuka (Frontend) untuk platform **Web** dan **Mobile**, menciptakan pengalaman pengguna yang responsif dan interaktif.
+*  Memiliki ketertarikan eksplorasi di bidang **Kecerdasan Buatan (AI)**.
+*  Saat ini sedang fokus mengembangkan:
+* **Seharta** - Aplikasi manajemen finansial kolaboratif dengan integrasi fitur *scan* struk menggunakan OCR.
+*  Mari berdiskusi! Hubungi saya melalui: **yusufdwi456@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="left">
   <!-- Frontend Web & Design -->
@@ -37,7 +37,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   
@@ -47,7 +47,7 @@
 
 </div>
 
-### 🏆 Top Languages
+### Top Languages
 
 <div align="center">
 
